@@ -1,0 +1,251 @@
+{
+  "Apple___Apple_scab": {
+    "plant": "Apple",
+    "disease": "Apple Scab",
+    "description": "Fungal disease causing dark spots on leaves and fruit.",
+    "fertilizer": ["Balanced NPK fertilizer", "Potassium rich fertilizer"],
+    "pesticide": ["Mancozeb", "Captan"],
+    "organic_solution": ["Neem oil spray", "Baking soda spray"],
+    "prevention": ["Remove infected leaves", "Ensure proper air circulation"]
+  },
+
+  "Apple___Black_rot": {
+    "plant": "Apple",
+    "disease": "Black Rot",
+    "description": "Fungal infection causing black lesions on leaves and fruits.",
+    "fertilizer": ["Compost manure", "Balanced NPK fertilizer"],
+    "pesticide": ["Captan", "Thiophanate-methyl"],
+    "organic_solution": ["Neem oil", "Copper spray"],
+    "prevention": ["Prune infected branches", "Remove mummified fruits"]
+  },
+
+  "Apple___Cedar_apple_rust": {
+    "plant": "Apple",
+    "disease": "Cedar Apple Rust",
+    "description": "Rust disease causing orange spots on apple leaves.",
+    "fertilizer": ["Nitrogen fertilizer", "Organic compost"],
+    "pesticide": ["Myclobutanil", "Mancozeb"],
+    "organic_solution": ["Neem oil spray"],
+    "prevention": ["Remove nearby cedar trees", "Prune infected leaves"]
+  },
+
+  "Apple___healthy": {
+    "plant": "Apple",
+    "disease": "Healthy",
+    "description": "Plant appears healthy.",
+    "fertilizer": ["Apply balanced NPK fertilizer"],
+    "pesticide": ["No pesticide required"],
+    "organic_solution": ["Maintain organic compost"],
+    "prevention": ["Regular monitoring", "Proper irrigation"]
+  },
+
+  "Blueberry___healthy": {
+    "plant": "Blueberry",
+    "disease": "Healthy",
+    "description": "Plant appears healthy.",
+    "fertilizer": ["Acidic fertilizer", "Organic compost"],
+    "pesticide": ["No pesticide required"],
+    "organic_solution": ["Mulching"],
+    "prevention": ["Maintain soil acidity"]
+  },
+
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "plant": "Cherry",
+    "disease": "Powdery Mildew",
+    "description": "White fungal powder on leaves.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["Sulfur fungicide", "Myclobutanil"],
+    "organic_solution": ["Neem oil"],
+    "prevention": ["Improve air circulation"]
+  },
+
+  "Cherry_(including_sour)___healthy": {
+    "plant": "Cherry",
+    "disease": "Healthy",
+    "description": "Plant appears healthy.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["No pesticide required"],
+    "organic_solution": ["Organic compost"],
+    "prevention": ["Proper watering"]
+  },
+
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "plant": "Corn",
+    "disease": "Gray Leaf Spot",
+    "description": "Fungal disease causing gray rectangular lesions.",
+    "fertilizer": ["Nitrogen fertilizer"],
+    "pesticide": ["Azoxystrobin", "Propiconazole"],
+    "organic_solution": ["Neem oil spray"],
+    "prevention": ["Crop rotation"]
+  },
+
+  "Corn_(maize)___Common_rust_": {
+    "plant": "Corn",
+    "disease": "Common Rust",
+    "description": "Reddish-brown pustules on leaves.",
+    "fertilizer": ["Nitrogen fertilizer"],
+    "pesticide": ["Mancozeb"],
+    "organic_solution": ["Neem oil spray"],
+    "prevention": ["Plant resistant varieties"]
+  },
+
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "plant": "Corn",
+    "disease": "Northern Leaf Blight",
+    "description": "Long gray-green lesions on leaves.",
+    "fertilizer": ["Nitrogen fertilizer"],
+    "pesticide": ["Azoxystrobin"],
+    "organic_solution": ["Neem oil"],
+    "prevention": ["Crop rotation"]
+  },
+
+  "Corn_(maize)___healthy": {
+    "plant": "Corn",
+    "disease": "Healthy",
+    "description": "Plant appears healthy.",
+    "fertilizer": ["Nitrogen fertilizer"],
+    "pesticide": ["No pesticide required"],
+    "organic_solution": ["Organic compost"],
+    "prevention": ["Proper irrigation"]
+  },
+
+  "Grape___Black_rot": {
+    "plant": "Grape",
+    "disease": "Black Rot",
+    "description": "Fungal disease causing dark spots on leaves and fruit.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["Mancozeb"],
+    "organic_solution": ["Neem oil"],
+    "prevention": ["Remove infected berries"]
+  },
+
+  "Grape___Esca_(Black_Measles)": {
+    "plant": "Grape",
+    "disease": "Esca (Black Measles)",
+    "description": "Fungal trunk disease affecting grapevines.",
+    "fertilizer": ["Apply NPK 10-10-10"],
+    "pesticide": ["Thiophanate-methyl"],
+    "organic_solution": ["Neem oil spray"],
+    "prevention": ["Prune infected wood"]
+  },
+
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "plant": "Grape",
+    "disease": "Leaf Blight",
+    "description": "Brown lesions on grape leaves.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["Copper fungicide"],
+    "organic_solution": ["Neem oil"],
+    "prevention": ["Prune infected leaves"]
+  },
+
+  "Grape___healthy": {
+    "plant": "Grape",
+    "disease": "Healthy",
+    "description": "Plant appears healthy.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["None required"],
+    "organic_solution": ["Organic compost"],
+    "prevention": ["Proper pruning"]
+  },
+
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "plant": "Orange",
+    "disease": "Citrus Greening",
+    "description": "Bacterial disease causing yellowing leaves.",
+    "fertilizer": ["Zinc fertilizer"],
+    "pesticide": ["Imidacloprid"],
+    "organic_solution": ["Neem oil"],
+    "prevention": ["Control psyllid insects"]
+  },
+
+  "Peach___Bacterial_spot": {
+    "plant": "Peach",
+    "disease": "Bacterial Spot",
+    "description": "Small dark spots on leaves and fruit.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["Copper fungicide"],
+    "organic_solution": ["Neem oil"],
+    "prevention": ["Remove infected leaves"]
+  },
+
+  "Peach___healthy": {
+    "plant": "Peach",
+    "disease": "Healthy",
+    "description": "Plant appears healthy.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["None required"],
+    "organic_solution": ["Compost"],
+    "prevention": ["Proper pruning"]
+  },
+
+  "Pepper,_bell___Bacterial_spot": {
+    "plant": "Bell Pepper",
+    "disease": "Bacterial Spot",
+    "description": "Dark spots on leaves and fruits.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["Copper bactericide"],
+    "organic_solution": ["Neem oil"],
+    "prevention": ["Avoid overhead watering"]
+  },
+
+  "Pepper,_bell___healthy": {
+    "plant": "Bell Pepper",
+    "disease": "Healthy",
+    "description": "Plant appears healthy.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["None required"],
+    "organic_solution": ["Compost"],
+    "prevention": ["Proper irrigation"]
+  },
+
+  "Potato___Early_blight": {
+    "plant": "Potato",
+    "disease": "Early Blight",
+    "description": "Dark concentric rings on leaves.",
+    "fertilizer": ["Potassium fertilizer"],
+    "pesticide": ["Mancozeb"],
+    "organic_solution": ["Neem oil"],
+    "prevention": ["Crop rotation"]
+  },
+
+  "Potato___Late_blight": {
+    "plant": "Potato",
+    "disease": "Late Blight",
+    "description": "Rapid leaf browning and rot.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["Chlorothalonil"],
+    "organic_solution": ["Neem oil"],
+    "prevention": ["Avoid excess moisture"]
+  },
+
+  "Potato___healthy": {
+    "plant": "Potato",
+    "disease": "Healthy",
+    "description": "Plant appears healthy.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["None required"],
+    "organic_solution": ["Organic compost"],
+    "prevention": ["Proper irrigation"]
+  },
+
+  "Strawberry___Leaf_scorch": {
+    "plant": "Strawberry",
+    "disease": "Leaf Scorch",
+    "description": "Fungal disease causing purple or brown leaf spots.",
+    "fertilizer": ["Balanced NPK fertilizer"],
+    "pesticide": ["Captan fungicide"],
+    "organic_solution": ["Neem oil"],
+    "prevention": ["Remove infected leaves"]
+  },
+
+  "Strawberry___healthy": {
+    "plant": "Strawberry",
+    "disease": "Healthy",
+    "description": "Plant appears healthy.",
+    "fertilizer": ["Balanced fertilizer"],
+    "pesticide": ["None required"],
+    "organic_solution": ["Compost"],
+    "prevention": ["Proper irrigation"]
+  }
+}

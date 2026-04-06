@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+/* Layout */
+.layout {
+  display: flex;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 220px;
+  height: 100vh;
+  background: #020617;
+  padding: 20px;
+  border-right: 1px solid #1e293b;
+}
+
+.sidebar h2 {
+  margin-bottom: 10px;
+}
+
+/* Main */
+.main {
+  flex: 1;
+  padding: 30px;
+}
+
+/* Top */
+.top h1 {
+  margin-bottom: 5px;
+}
+
+.top p {
+  color: #94a3b8;
+}
+
+/* Upload */
+.upload-box {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+.preview {
+  width: 200px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  background: #22c55e;
+  color: white;
+  cursor: pointer;
+}
+
+/* Result */
+.result-box {
+  margin-top: 20px;
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.confidence {
+  color: #22c55e;
+}
+
+/* Info Grid */
+.info-grid {
+  display: flex;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+/* AI Section */
+.ai-section {
+  margin-top: 20px;
+}
+
+.ai-text {
+  background: #020617;
+  padding: 15px;
+  border-radius: 10px;
+  line-height: 1.6;
+}
+
+/* Solutions */
+.solution-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+ul {
+  padding-left: 18px;
+}
